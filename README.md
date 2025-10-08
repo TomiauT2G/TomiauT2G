@@ -18,29 +18,29 @@
 
 <div align="center">
 
-### 💻 Lenguajes de Programación
+###  Lenguajes de Programación
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,php" />
 
-### 🎨 Frontend
+###  Frontend
 <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,sass,tailwind,bootstrap" />
 
-### ⚙️ Backend
+###  Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,laravel" />
 
-### 🗄️ Bases de Datos
+###  Bases de Datos
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite" />
 
-### ☁️ DevOps y Cloud
+###  DevOps y Cloud
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,jenkins,github" />
 
-### 🔧 Herramientas
+###  Herramientas
 <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,photoshop,linux,windows" />
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TomiauT2G&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -52,18 +52,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomiauT2G&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🌟 Experiencia y Habilidades
-
-<div align="center">
-
-### 🚀 Nivel de Experiencia
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-88%25-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-82%25-green?style=for-the-badge&logo=node.js&logoColor=white)
-
 </div>
 
 <div align="center">
