@@ -14,7 +14,7 @@
 
 </div>
 
-## 🛠️ Tecnologías y Herramientas
+## Que Se Usar
 
 <div align="center">
 
