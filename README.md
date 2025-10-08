@@ -66,29 +66,6 @@
 
 </div>
 
----
-
-## 📫 Conecta Conmigo
-
-
-
-## 📊 Tiempo de Codificación Semanal
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TomiauT2G&label=Visitas+al+Perfil&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  ### ⭐ ¡No olvides darle una estrella a mis repositorios si te gustaron! ⭐
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>¡Me encanta conectar con diferentes personas</b> así que si quieres saludar, <b>¡estaré encantado de conocerte más!</b> 😊</em>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
