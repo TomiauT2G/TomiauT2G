@@ -1,7 +1,7 @@
 # Hola
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+Algo+Nuevo;Creando+Soluciones+Innovadoras" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Tengo+Sueño" alt="Typing SVG" />
 </div>
 
 <div align="center">
