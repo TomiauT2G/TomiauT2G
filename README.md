@@ -10,34 +10,6 @@
 
 ---
 
-## 🚀 Sobre Mí
-
-```javascript
-const tomiauT2G = {
-    pronouns: "él/him",
-    code: ["JavaScript", "Python", "Java", "C++", "TypeScript"],
-    askMeAbout: ["desarrollo web", "tecnología", "programación", "innovación"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Sass", "Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Fastify"],
-            python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring Boot"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "VS Code", "Postman", "Figma"]
-    },
-    currentFocus: "Desarrollando aplicaciones web modernas y escalables",
-    funFact: "¡Me encanta resolver problemas complejos con código elegante!"
-};
-```
-
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
