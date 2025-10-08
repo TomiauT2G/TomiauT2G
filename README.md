@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> ¡Hola! Soy TomiauT2G
+# Hola
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack;Apasionado+por+la+Tecnología;Siempre+Aprendiendo+Algo+Nuevo;Creando+Soluciones+Innovadoras" alt="Typing SVG" />
